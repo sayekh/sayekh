@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saye_khatami
+- 👋 Hi, I’m saye_khatami
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
